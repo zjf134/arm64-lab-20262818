@@ -1,0 +1,6 @@
+/build/
+/logs/
+/images/
+*.o
+*.deb
+__pycache__/
